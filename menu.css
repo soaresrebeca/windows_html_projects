@@ -1,0 +1,33 @@
+nav {
+    width: 100%;
+    padding: 0 2% 0 2%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-center{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    padding-top: 0.9rem;
+}
+
+.menu-right{
+    width: 18.5%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.9rem;
+}
+
+.menu-left{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.4rem;
+}
+
+.menu-left h5 {
+    padding-top: 0.5rem;
+}
